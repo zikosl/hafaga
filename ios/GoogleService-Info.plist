@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>357825964619-rifq3kutelbe1l7kg8b34pm5a0bvgpk4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.357825964619-rifq3kutelbe1l7kg8b34pm5a0bvgpk4</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>357825964619-r33556fuvht3m850v4n7c0rum06dve8r.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAt0Uv-_66whUjC03_IkCNgKkVX6AzKfbk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>357825964619</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.hafaga</string>
+	<key>PROJECT_ID</key>
+	<string>hafaga-b7ca0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hafaga-b7ca0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:357825964619:ios:a62a8d95d58c9af7d8fbce</string>
+</dict>
+</plist>

@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="facebook_app_id">1540787366374891</string>
+    <string name="fb_login_protocol_scheme">fb1540787366374891</string>
+    <string name="facebook_client_token">de8f0acdad924ae284471e2f415c5ba9</string>
+
+
+    <string name="app_name">hafaga</string>
+</resources>

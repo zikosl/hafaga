@@ -1,0 +1,194 @@
+{
+  "project_info": {
+    "project_number": "357825964619",
+    "project_id": "hafaga-b7ca0",
+    "storage_bucket": "hafaga-b7ca0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357825964619:android:4a28887a648da03fd8fbce",
+        "android_client_info": {
+          "package_name": "com.driverhafaga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357825964619-22gt4s37mlrn85s8m876f4q44ecr92pv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.driverhafaga",
+            "certificate_hash": "f69e66ee4ecd12ab7f09a1333a437dd31ef281cf"
+          }
+        },
+        {
+          "client_id": "357825964619-ek7275abjvagq6ofc6gnr95t62g3tc1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1hleGItsRaR3eeUd-WZn3Vmkz9liKnjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357825964619-ek7275abjvagq6ofc6gnr95t62g3tc1r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "357825964619-20qpd1a2r6jg9m3m995ld4q9c0vopvgu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.techosight.servicehafaga"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357825964619:android:c6addba6fb4dd150d8fbce",
+        "android_client_info": {
+          "package_name": "com.hafaga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357825964619-nef733ctp5rufpktfojfcbor5pds5olh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hafaga",
+            "certificate_hash": "f69e66ee4ecd12ab7f09a1333a437dd31ef281cf"
+          }
+        },
+        {
+          "client_id": "357825964619-tqn9o8il1neougjgick1s0q4en592mf5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hafaga",
+            "certificate_hash": "4143dd44fcd46492d0a87f16d7a5f11cb18506dd"
+          }
+        },
+        {
+          "client_id": "357825964619-ek7275abjvagq6ofc6gnr95t62g3tc1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1hleGItsRaR3eeUd-WZn3Vmkz9liKnjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357825964619-ek7275abjvagq6ofc6gnr95t62g3tc1r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "357825964619-20qpd1a2r6jg9m3m995ld4q9c0vopvgu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.techosight.servicehafaga"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357825964619:android:b022befeacbd7bdcd8fbce",
+        "android_client_info": {
+          "package_name": "com.techosight.driverhafaga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357825964619-4k5o5i4rtijff17eikn75vgbgqhf08mb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techosight.driverhafaga",
+            "certificate_hash": "f69e66ee4ecd12ab7f09a1333a437dd31ef281cf"
+          }
+        },
+        {
+          "client_id": "357825964619-ek7275abjvagq6ofc6gnr95t62g3tc1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1hleGItsRaR3eeUd-WZn3Vmkz9liKnjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357825964619-ek7275abjvagq6ofc6gnr95t62g3tc1r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "357825964619-20qpd1a2r6jg9m3m995ld4q9c0vopvgu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.techosight.servicehafaga"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357825964619:android:ddb4e1a0eacbb8c7d8fbce",
+        "android_client_info": {
+          "package_name": "com.techosight.servicehafaga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357825964619-r33556fuvht3m850v4n7c0rum06dve8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techosight.servicehafaga",
+            "certificate_hash": "f69e66ee4ecd12ab7f09a1333a437dd31ef281cf"
+          }
+        },
+        {
+          "client_id": "357825964619-ek7275abjvagq6ofc6gnr95t62g3tc1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1hleGItsRaR3eeUd-WZn3Vmkz9liKnjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357825964619-ek7275abjvagq6ofc6gnr95t62g3tc1r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "357825964619-20qpd1a2r6jg9m3m995ld4q9c0vopvgu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.techosight.servicehafaga"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
